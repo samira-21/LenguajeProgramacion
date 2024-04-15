@@ -6,7 +6,7 @@ package semana.pkg1;
 import java.util.Scanner;
 /**
  *
- * @author samira
+ * @author Soller Rivera Samira Tayli
  */
 public class ejercicio1 {
     public static void main(String[] args) {
