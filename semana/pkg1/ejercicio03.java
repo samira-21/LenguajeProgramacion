@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author soller rivera samira tayli
+ * @author Soller Rivera Samira Tayli
  */
 public class ejercicio03 {
     public static void main(String[] args) {
